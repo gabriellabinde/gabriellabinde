@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi, I'm Gabriella Binde 👋
 
-<!--
-**gabriellabinde/gabriellabinde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Psychologist and Cognitive Science Master's student in Grenoble, France.
 
-Here are some ideas to get you started:
+My work sits at the intersection of psychology, cognition, technology, and human-centered design. I am particularly interested in understanding how digital tools can support learning, executive functioning, communication, and well-being.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Interests
+
+- Cognitive Science
+- Human-Computer Interaction (HCI)
+- Neuropsychology
+- Digital Health Tools
+- Virtual Reality
+- Artificial Intelligence
+
+## Professional Background
+
+- Clinical Psychologist
+- Neuropsychological Assessment
+- Psychotherapy
+- Research and Cognitive Science
+
+## Technical Interests
+
+- Python
+- Data Analysis
+- Git & GitHub
+- Streamlit
+- Human-Centered Design
+- Digital Product Development
+
+## Current Projects
+
+### Digital Platform for Psychology
+
+Design and development of a digital platform intended to support psychologists and their patients through structured activities, assessments, therapeutic tools, and secure content management.
+
+### Neuropsychological Assessment Tools
+
+Development of digital resources and workflows to support neuropsychological assessment, data organization, and clinical decision-making.
+
+### Personal Website
+
+Ongoing development of a professional website integrating psychology, cognitive science, digital tools, and patient resources.
+
+### Productivity and Executive Functioning Tools
+
+Creation of interactive planning and organization tools aimed at supporting self-management, habit formation, and executive functioning.
+
+## Current Goals
+
+- Expanding programming and data analysis skills
+- Exploring cognitive technologies
+- Developing digital tools for psychology and education
+- Building projects at the intersection of cognition and technology
+
+## Connect With Me
+
+📍 Grenoble, France
