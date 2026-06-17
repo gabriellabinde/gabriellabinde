@@ -4,6 +4,9 @@ Psychologist and Cognitive Science Master's student in Grenoble, France.
 
 My work sits at the intersection of psychology, cognition, technology, and human-centered design. I am particularly interested in understanding how digital tools can support learning, executive functioning, communication, and well-being.
 
+This repository is a work in progress.
+Previous projects are still being organised, documented and prepared for sharing while I gradually build this portfolio.
+
 ## Current Interests
 
 - Cognitive Science
