@@ -8,9 +8,9 @@ My work sits at the intersection of psychology, cognition, technology, and human
 
 - Cognitive Science
 - Human-Computer Interaction (HCI)
-- Neuropsychology
+- Extended Reality (XR)
+- Virtual Reality (VR)
 - Digital Health Tools
-- Virtual Reality
 - Artificial Intelligence
 
 ## Professional Background
@@ -24,10 +24,7 @@ My work sits at the intersection of psychology, cognition, technology, and human
 
 - Python
 - Data Analysis
-- Git & GitHub
-- Streamlit
-- Human-Centered Design
-- Digital Product Development
+- GitHub
 
 ## Current Projects
 
@@ -51,7 +48,6 @@ Creation of interactive planning and organization tools aimed at supporting self
 
 - Expanding programming and data analysis skills
 - Exploring cognitive technologies
-- Developing digital tools for psychology and education
 - Building projects at the intersection of cognition and technology
 
 ## Connect With Me
