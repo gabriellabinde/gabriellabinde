@@ -24,12 +24,6 @@ Previous projects are still being organised, documented and prepared for sharing
 - Psychotherapy
 - Research and Cognitive Science
 
-## Technical Interests
-
-- Python
-- Data Analysis
-- GitHub
-
 ## Current Projects
 
 ### Digital Platform for Psychology
