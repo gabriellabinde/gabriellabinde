@@ -9,12 +9,13 @@ Previous projects are still being organised, documented and prepared for sharing
 
 ## Current Interests
 
-- Cognitive Science
-- Human-Computer Interaction (HCI)
-- Extended Reality (XR)
-- Virtual Reality (VR)
-- Digital Health Tools
-- Artificial Intelligence
+- Cognitive Processes
+- Experimental Design
+- Neurophysiological Recording
+- Human-Computer Interaction
+- Immersive Technologies
+- Digital Health Tools and Technology-Enhanced Assessment
+- Multimodal Data Collection
 
 ## Professional Background
 
